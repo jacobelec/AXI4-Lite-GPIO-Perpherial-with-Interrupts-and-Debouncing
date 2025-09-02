@@ -54,5 +54,8 @@ This block supports the following...
    - Level events re-assert if condition persists
    - W1C clears pending bits correctly
    - Short glitches ignored when debounce > 0
+  
+ ## Verification
+ Mostly used a directed testbench method in SystemVerilog to ensure the intended design is implemented properly.
 
     
