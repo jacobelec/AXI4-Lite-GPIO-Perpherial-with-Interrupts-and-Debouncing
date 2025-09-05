@@ -56,6 +56,6 @@ This block supports the following...
    - Short glitches ignored when debounce > 0
   
  ## Verification
- Mostly used a directed testbench method in SystemVerilog to ensure the intended design is implemented properly.
+ Mostly used a directed testbench method in SystemVerilog to ensure the intended design is implemented properly. Working on using UVM now...
 
     
